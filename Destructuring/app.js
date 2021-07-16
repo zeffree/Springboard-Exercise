@@ -53,8 +53,8 @@ var obj = {
     }
   };
   
-  var a = obj.numbers.a;
-  var b = obj.numbers.b;
+//   var a = obj.numbers.a;
+//   var b = obj.numbers.b;
 
 let {a,b} = obj.numbers;
 
